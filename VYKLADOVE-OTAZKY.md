@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 29/2000 Sb., o poštovních službách. Vychází výhradně z místních kapitol, místního znění předpisu (k 1. 1. 2026) a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí zatím k dispozici nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 29/2000 Sb., o poštovních službách. Vychází výhradně z místních kapitol, místního znění předpisu (k 1. 1. 2026) a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva k dispozici není; místní judikaturu tvoří jediná karta rozhodnutí ([judikatura/NS-25-Cdo-1089-2018.md](judikatura/NS-25-Cdo-1089-2018.md), k § 6a). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -92,7 +92,7 @@ Kapitoly upozorňují například na:
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz (podací doklad, záznam o dodání, protokol o otevření, oddělená evidence s ověřením), kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Kdo se dovolává výjimky nebo liberace, nese podle kapitol důkazní riziko. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 8, § 10, § 12 až § 15](01-uvodni-postovni-sluzby-tajemstvi.md); [§ 34](03-sdileni-ceny-naklady-sprava.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md). Místní judikatura k dokazování zatím chybí (složka `judikatura/` bude doplněna strojově).
+**Místní opora.** [§ 8, § 10, § 12 až § 15](01-uvodni-postovni-sluzby-tajemstvi.md); [§ 34](03-sdileni-ceny-naklady-sprava.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md). Místní judikatura k dokazování chybí (jediná karta ve složce `judikatura/` se týká pravomoci podle § 6a).
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -132,10 +132,10 @@ Typické střety: univerzální služba proti nákladové orientaci a stropu kom
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje složku `judikatura/`: místní korpus má **0** karet rozhodnutí a v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Úvod to uvádí výslovně: „Repozitář neobsahuje vlastní soubor místní judikatury k tomuto zákonu, a komentář proto neuvádí žádné spisové značky soudních rozhodnutí“.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Jde o evidovanou mezeru — složka `judikatura/` se doplní strojově později.
+Místní korpus má **1** kartu rozhodnutí: [judikatura/NS-25-Cdo-1089-2018.md](judikatura/NS-25-Cdo-1089-2018.md) (NS 25 Cdo 1089/2018 ze dne 26. 3. 2019, kat. A), citovanou u [§ 6a](01-uvodni-postovni-sluzby-tajemstvi.md); systematický soubor zásad na ni zatím neodkazuje. Teze karty: nárok na náhradu škody vzniklé ztrátou poštovní zásilky při přepravě či úbytkem jejího obsahu je právem z poštovní smlouvy ve smyslu § 6a odst. 2 věty druhé a rozhodování o něm spadá do pravomoci Českého telekomunikačního úřadu, nikoli soudu. Kapitola 01 z toho vyvozuje: „žaloba podaná přímo k soudu tuto cestu nenahrazuje.“ Hranici karty označuje sama: „Výkladovou otázkou zůstává, zda se tento závěr vztahuje i na nároky z poštovní smlouvy, které nesouvisejí s reklamací vad poskytnuté poštovní služby.“
+Pro ostatní ustanovení úvod uvádí: „Ostatních 60 ustanovení místní judikaturu nemá a komentář u nich neuvádí žádné spisové značky soudních rozhodnutí“. Mimo § 6a se proto judikatorní odpověď nesmí domýšlet.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (zákon byl mnohokrát novelizován) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do té doby chybějící místní judikaturu označujte jako mezeru a kazuistiky kapitol čtěte jako modelové.
+**Jak ji řešit.** U karty k § 6a (a u každé případně doplněné karty) oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (zákon byl mnohokrát novelizován) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo (u karty z roku 2019 porovnejte tehdejší a dnešní znění § 6a); u ostatních ustanovení chybějící místní judikaturu označujte jako mezeru a kazuistiky kapitol čtěte jako modelové.
 
 **Místní opora.** [úvod — metodická poznámka](00-uvod.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
@@ -165,7 +165,7 @@ Místní kapitoly výslovně zachycují například tyto otázky nebo námitky (
 
 Například k povaze poštovní smlouvy kapitola 04 uvádí: „zda je poštovní smlouva podtypem smlouvy o přepravě věci (§ 2555 a násl. občanského zákoníku), nebo samostatnou smlouvou zvláštního zákona.“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a eurokonformní argument (místní judikatorní argument zatím chybí), praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu; bezpečný praktický postup uveďte odděleně od právního závěru.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a eurokonformní argument (místní judikatorní argument je k dispozici jen u § 6a), praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu; bezpečný praktický postup uveďte odděleně od právního závěru.
 
 **Místní opora.** [kapitola 01](01-uvodni-postovni-sluzby-tajemstvi.md); [kapitola 02](02-provozovani-licence-povinnosti.md); [kapitola 03](03-sdileni-ceny-naklady-sprava.md); [kapitola 04](04-spolecna-novely-ucinnost.md); [místní zásady](ZASADY.md)
 
@@ -183,9 +183,9 @@ Vzorovou subsumpci s výpočtem lhůty obsahuje § 6a: „Měsíční lhůta od 
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **5** kapitol (úvod a čtyři kapitoly s 61 ustanoveními) a **0** karet rozhodnutí, doplněných samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **5** kapitol (úvod a čtyři kapitoly s 61 ustanoveními) a **1** karta rozhodnutí (NS 25 Cdo 1089/2018 k § 6a), doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově později);
+- místní judikatura poskytuje citovatelnou tezi jen k § 6a ([judikatura/NS-25-Cdo-1089-2018.md](judikatura/NS-25-Cdo-1089-2018.md)); ostatních 60 ustanovení místní judikaturu nemá;
 - místní důvodová zpráva není součástí repozitáře;
 - některé poznámky pod čarou zákona odkazují na zrušené nebo přečíslované předpisy a kapitoly je čtou funkčně;
 - znění je zachyceno k 1. 1. 2026 a pozdější změny nemusí být zohledněny.

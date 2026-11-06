@@ -465,6 +465,8 @@ Poštovní podmínky jsou centrálním dokumentem smlouvy; kontrolu obsahu vykon
 - *NS* [25 Cdo 1089/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/09F5544AFCBC7911C12584170015FF2F?openDocument) — 26. 3. 2019, kat. A
   > „Nárok na náhradu škody vzniklé ztrátou poštovní zásilky při přepravě či úbytkem jejího obsahu je právem vyplývajícím z poštovní smlouvy ve smyslu § 6a odst. 2 věty druhé zákona č. 29/2000 Sb., o poštovních službách, a rozhodování o něm spadá do pravomoci Českého telekomunikačního úřadu, nikoli soudu"
 
+**K místní judikaturní kartě NS 25 Cdo 1089/2018:** Karta potvrzuje výklad odst. 2: nárok na náhradu škody vzniklé ztrátou poštovní zásilky nebo úbytkem jejího obsahu je právem z poštovní smlouvy ve smyslu § 6a odst. 2 věty druhé a rozhoduje o něm Úřad (v kartě označený jako Český telekomunikační úřad), nikoli soud. Pro praxi z toho plyne, že odesílatel nebo adresát musí nejprve reklamovat u provozovatele a poté včas podat návrh na zahájení řízení o námitce podle odst. 1; žaloba podaná přímo k soudu tuto cestu nenahrazuje. Rozhodnutí je z 26. 3. 2019, proto je třeba při jeho použití porovnat tehdejší a dnešní znění § 6a. Výkladovou otázkou zůstává, zda se tento závěr vztahuje i na nároky z poštovní smlouvy, které nesouvisejí s reklamací vad poskytnuté poštovní služby.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Spotřebitelka reklamovala ztrátu doporučené zásilky; provozovatel reklamaci 10. března zamítl s tím, že zásilka byla dodána do schránky. Spotřebitelka podala návrh u Úřadu 20. dubna a požaduje paušální náhradu.

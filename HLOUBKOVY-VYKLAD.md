@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (citační bloky v kapitolách, znění k 1. 1. 2026).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — u tohoto komentáře zatím **žádný** (viz vrstva 9).
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — u tohoto komentáře jediný, k [§ 6a](01-uvodni-postovni-sluzby-tajemstvi.md) z karty [judikatura/NS-25-Cdo-1089-2018.md](judikatura/NS-25-Cdo-1089-2018.md) (viz vrstva 9).
 - **Syntéza:** autorské propojení textu, systematiky a výkladu v kapitolách.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitoly ji zpravidla označují výslovně jako „výkladovou otázku“.
 
-Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři kapitoly komentáře), **61 samostatně nadepsaných ustanovení** (§ 1 až § 60, bez zrušených a nepřevzatých jednotek), **46 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **11 zásad** v [ZASADY.md](ZASADY.md) a **0 místních karet rozhodnutí**. Ustanovení lze dohledat v [rejstříku komentáře](INDEX.md).
+Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a čtyři kapitoly komentáře), **61 samostatně nadepsaných ustanovení** (§ 1 až § 60, bez zrušených a nepřevzatých jednotek), **46 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **11 zásad** v [ZASADY.md](ZASADY.md) a **1 místní kartu rozhodnutí** ([judikatura/NS-25-Cdo-1089-2018.md](judikatura/NS-25-Cdo-1089-2018.md), k § 6a). Ustanovení lze dohledat v [rejstříku komentáře](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -239,17 +239,18 @@ Následky se v zákoně vrství do pěti nezávislých rovin: **soukromoprávní
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím **neobsahuje složku `judikatura/`** ani žádnou místní kartu rozhodnutí (**0 karet**); soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly obsahují **0 rozpoznaných spisových značek** — a to záměrně:
-- [Metodická poznámka](00-uvod.md): „Repozitář neobsahuje vlastní soubor místní judikatury k tomuto zákonu, a komentář proto neuvádí žádné spisové značky soudních rozhodnutí“
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky; kazuistiky jsou modelové a slouží k ilustraci aplikace, nikoli jako popis skutečných rozhodnutí.“
+Složka `judikatura/` obsahuje **1 místní kartu rozhodnutí**: [judikatura/NS-25-Cdo-1089-2018.md](judikatura/NS-25-Cdo-1089-2018.md) (NS 25 Cdo 1089/2018 ze dne 26. 3. 2019, kat. A). Kapitoly ji citují jen u [§ 6a](01-uvodni-postovni-sluzby-tajemstvi.md); soubor zásad na ni zatím neodkazuje. Teze karty: nárok na náhradu škody vzniklé ztrátou poštovní zásilky při přepravě či úbytkem jejího obsahu je právem z poštovní smlouvy ve smyslu § 6a odst. 2 věty druhé a rozhodování o něm spadá do pravomoci Českého telekomunikačního úřadu, nikoli soudu.
+- [§ 6a — K místní judikaturní kartě](01-uvodni-postovni-sluzby-tajemstvi.md): „Karta potvrzuje výklad odst. 2: nárok na náhradu škody vzniklé ztrátou poštovní zásilky nebo úbytkem jejího obsahu je právem z poštovní smlouvy ve smyslu § 6a odst. 2 věty druhé a rozhoduje o něm Úřad (v kartě označený jako Český telekomunikační úřad), nikoli soud.“
+- [§ 6a — hranice použitelnosti](01-uvodni-postovni-sluzby-tajemstvi.md): „Výkladovou otázkou zůstává, zda se tento závěr vztahuje i na nároky z poštovní smlouvy, které nesouvisejí s reklamací vad poskytnuté poštovní služby.“
+- [Metodická poznámka](00-uvod.md): „Ostatních 60 ustanovení místní judikaturu nemá a komentář u nich neuvádí žádné spisové značky soudních rozhodnutí“
 
-Místní korpus tedy neposkytuje kartu ani citaci rozhodnutí; judikatorní závěr se nesmí domýšlet. Jde o **evidovanou mezeru**: složka `judikatura/` se doplní strojově později a teprve poté lze tuto vrstvu naplnit. Do té doby všechna tvrzení v kapitolách stojí na textu zákona, systematice a autorské syntéze.
+Mimo § 6a místní korpus kartu ani citaci rozhodnutí neposkytuje; judikatorní závěr se tam nesmí domýšlet a tvrzení v kapitolách stojí na textu zákona, systematice a autorské syntéze. I u § 6a je třeba porovnat znění účinné k 26. 3. 2019 se zněním k 1. 1. 2026.
 
 **Hloubkový test.**
-- Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U karty k § 6a (a u každé případně doplněné karty) oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (zákon byl mnohokrát novelizován, např. licence, čisté náklady, přestupky) a stejný právní problém.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech; zvlášť opatrně přenášejte judikaturu k občanskému zákoníku nebo k elektronickým komunikacím.
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; každou výkladovou otázku kapitol porovnejte s doplněnými kartami.
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; každou výkladovou otázku kapitol porovnejte s místními kartami.
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod — metodická poznámka](00-uvod.md)
 
@@ -271,7 +272,7 @@ Hraniční případy, na nichž kapitoly test opakovaně staví: čistý přepra
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu (např. u § 39 obě koncepce poštovní smlouvy s jejich důsledky pro použití § 2555 a násl. občanského zákoníku).
-- U každé varianty uveďte textový, systematický, historický, účelový a eurokonformní argument; místní judikatorní argument zatím chybí (vrstva 9).
+- U každé varianty uveďte textový, systematický, historický, účelový a eurokonformní argument; místní judikatorní argument je k dispozici jen u § 6a (vrstva 9).
 - Porovnejte praktické následky variant (spotřebitel versus provozovatel, rozpočet versus držitel licence) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru; bezpečný postup (např. zahájit činnost až po osvědčení) uveďte odděleně od právního závěru.
 
@@ -325,7 +326,7 @@ Ukázka úplné subsumpce s výpočtem lhůty z [§ 6a](01-uvodni-postovni-sluzb
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **5 kapitolami** (úvod a čtyři kapitoly). Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní složka `judikatura/` zatím neexistuje a soubor zásad neodkazuje na žádnou kartu s citovatelnou tezí (doplní se strojově později);
+- místní složka `judikatura/` obsahuje jen 1 kartu (NS 25 Cdo 1089/2018 k § 6a); ostatních 60 ustanovení místní judikaturu nemá a soubor zásad na kartu neodkazuje;
 - místní důvodová zpráva v repozitáři není, historický argument proto stojí jen na výkladu kapitol;
 - konkurenční výklady nejsou samostatně katalogizovány — jsou rozptýleny v oddílech G. a v označených výkladových otázkách (souhrn ve [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md));
 - několik poznámek pod čarou zákona odkazuje na zrušené nebo přečíslované předpisy (č. 15, č. 25, č. 26), což kapitoly řeší funkčním výkladem.
@@ -346,15 +347,15 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen konstatování mezery | ano | ano | jen metodická poznámka | ano |
-| [Kapitola 1](01-uvodni-postovni-sluzby-tajemstvi.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen metodická poznámka (1 karta k § 6a) | ano | ano | jen metodická poznámka | ano |
+| [Kapitola 1](01-uvodni-postovni-sluzby-tajemstvi.md) | ano | ano | ano | ano (jen § 6a) | ano | ano | ano | ano |
 | [Kapitola 2](02-provozovani-licence-povinnosti.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 3](03-sdileni-ceny-naklady-sprava.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 4](04-spolecna-novely-ucinnost.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v žádné ze 4 kapitol komentáře; úvod mezeru výslovně přiznává. Priorita po strojovém doplnění složky `judikatura/`.
+- **Judikatura:** jediný signál je karta NS 25 Cdo 1089/2018 u § 6a v kapitole 1; kapitoly 2 až 4 judikaturu neobsahují a úvod to výslovně uvádí. Prioritou je ověřit tezi karty vůči dnešnímu znění § 6a.
 - **Důkazy:** úvod nemá samostatný důkazní signál; kapitoly jej nesou v oddílech „Typicky rozhodné důkazy / podklady“.
 - **Aplikace v kapitole 4:** 9 kazuistik v kompaktní podobě bez samostatně označené modelové situace.
 
@@ -389,7 +390,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud složka `judikatura/` chybí, žádný judikatorní závěr neuvádějte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; mimo § 6a, k němuž je ve složce `judikatura/` jediná karta, žádný judikatorní závěr neuvádějte.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací
@@ -397,7 +398,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - [ ] Rozhodné znění a přechodná ustanovení jsou označena.
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy.
-- [ ] Judikatura je zasazena do skutkového a procesního kontextu (po doplnění složky `judikatura/`).
+- [ ] Judikatura je zasazena do skutkového a procesního kontextu (u tohoto komentáře karta NS 25 Cdo 1089/2018 k § 6a).
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.
